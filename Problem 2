@@ -1,0 +1,7 @@
+#creating a list
+zoo = ["monkey", "elephant", "lion", "tiger", "giraffe",]
+
+#add a new animal at the end
+zoo.append("panda")
+
+print(zoo)
