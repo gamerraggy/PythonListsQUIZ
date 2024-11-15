@@ -7,3 +7,5 @@ zoo.append("panda")
 #counts and prints the number of animals including panda
 number_of_animals = len(zoo)
 print("There is", number_of_animals, "animals.")
+
+print(zoo)
