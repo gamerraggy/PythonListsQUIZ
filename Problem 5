@@ -1,0 +1,21 @@
+#creating a list
+zoo = ["monkey", "elephant", "lion", "tiger", "giraffe",]
+
+#add a new animal at the end
+zoo.append("panda")
+print ("Panda is joining us!")
+
+#remove animal
+zoo.remove("tiger")
+print ("The tiger ran away")
+
+#counts and prints the number of animals including added animal
+number_of_animals = len(zoo)
+print("There is", number_of_animals, "animals.")
+
+#swap animal with another animal
+zoo[1] = "meerkat"
+print ("The elephant is on vacation")
+print ("The meerkat will be his sub")
+
+print(zoo)
