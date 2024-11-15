@@ -1,0 +1,4 @@
+#creating a list
+zoo = ["monkey", "elephant", "lion", "tiger", "giraffe",]
+
+print(zoo)
